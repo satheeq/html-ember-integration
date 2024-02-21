@@ -1,0 +1,31 @@
+{
+  "name": "html-ember-integration",
+  "version": "1.0.0",
+  "description": "R&amp;Ds and Test round on HTML with EmberJS",
+  "main": "app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/satheeq/html-ember-integration.git"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "ember"
+  ],
+  "author": "satheeq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satheeq/html-ember-integration/issues"
+  },
+  "homepage": "https://github.com/satheeq/html-ember-integration#readme",
+  "devDependencies": {
+    "express": "^4.18.2"
+  }
+}
